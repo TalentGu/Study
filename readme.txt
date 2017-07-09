@@ -1,4 +1,4 @@
-hi, i'm in branch master on 16:37
+hello, i'm in branch master on 16:37
 =======
 hi, i'm in branch test
 >>>>>>> test2
